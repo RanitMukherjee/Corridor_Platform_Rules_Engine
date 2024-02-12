@@ -67,7 +67,7 @@
     "@hot-loader/react-dom": "16.13.0",
     "@babel/eslint-parser": "7.19.1",
     "eslint": "8.27.0",
-    "eslint-plugin-react": "7.31.10",
+    "eslint-plugin-react": "7.33.2",
     "husky": "8.0.2",
     "react-hot-loader": "4.12.20",
     "redux-devtools-extension": "2.13.9",
