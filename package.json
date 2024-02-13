@@ -21,7 +21,7 @@
     "url": "https://github.com/vinzdeveloper/json-rule-editor.git"
   },
   "engines": {
-    "node": ">=18.19.0 ",
+    "node": ">=18.x.x",
     "npm": ">=10.2.3"
   },
   "dependencies": {
