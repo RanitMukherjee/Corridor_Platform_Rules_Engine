@@ -56,7 +56,7 @@
     "react-spinners": "0.8.1",
     "redux": "4.0.5",
     "redux-thunk": "2.3.0",
-    "sass-loader": "13.2.0",
+    "sass-loader": "14.1.0",
     "selectn": "1.1.2",
     "style-loader": "1.1.2",
     "url-loader": "4.1.0",
