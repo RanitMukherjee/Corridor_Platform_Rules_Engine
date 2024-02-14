@@ -43,7 +43,7 @@
     "html-webpack-plugin": "5.5.0",
     "json-rules-engine": "6.1.2",
     "lodash": "4.17.21",
-    "mini-css-extract-plugin": "2.6.1",
+    "mini-css-extract-plugin": "2.8.0",
     "node-sass": "9.0.0",
     "postcss-loader": "8.1.0",
     "react": "16.12.0",
