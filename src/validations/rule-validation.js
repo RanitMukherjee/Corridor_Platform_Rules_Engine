@@ -1,4 +1,4 @@
-import { Engine } from  ('./json-rules-engine/src/');
+import { Engine } from 'json-rules-engine';
 
 
 export const processEngine = (fact, conditions) => {
