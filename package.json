@@ -41,7 +41,6 @@
     "font-awesome": "4.7.0",
     "history": "4.10.1",
     "html-webpack-plugin": "5.5.0",
-    "json-rules-engine": "6.5.0",
     "lodash": "4.17.21",
     "mini-css-extract-plugin": "2.8.0",
     "node-sass": "9.0.0",
