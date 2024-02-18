@@ -41,7 +41,6 @@
     "font-awesome": "4.7.0",
     "history": "4.10.1",
     "html-webpack-plugin": "5.5.0",
-    "json-rule-builder": "RanitMukherjee/json-rules-engine",
     "lodash": "4.17.21",
     "mini-css-extract-plugin": "2.8.0",
     "node-sass": "9.0.0",
@@ -61,7 +60,8 @@
     "style-loader": "3.3.4",
     "url-loader": "4.1.0",
     "webpack": "5.90.1",
-    "webpack-cli": "5.1.4"
+    "webpack-cli": "5.1.4",
+    "json-rules-engine": "RanitMukherjee/json-rules-engine"
   },
   "devDependencies": {
     "@hot-loader/react-dom": "16.14.0",
