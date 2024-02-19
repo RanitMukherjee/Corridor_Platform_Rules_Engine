@@ -52,7 +52,7 @@
     "react-notifications": "1.7.4",
     "react-redux": "7.2.9",
     "react-router-dom": "5.1.2",
-    "react-spinners": "0.8.1",
+    "react-spinners": "0.13.8",
     "redux": "4.2.1",
     "redux-thunk": "2.3.0",
     "sass-loader": "14.1.0",
