@@ -62,7 +62,7 @@
     "url-loader": "4.1.0",
     "webpack": "5.90.1",
     "webpack-cli": "5.1.4",
-    "json-rules-engine": "./RanitMukherjee/json-rules-engine"
+    "json-rules-engine": "6.5.0"
   },
   "devDependencies": {
     "@hot-loader/react-dom": "17.0.2",
